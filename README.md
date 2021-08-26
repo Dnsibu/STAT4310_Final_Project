@@ -16,7 +16,7 @@ The goals of this project are:
 + To understand what variables have been the most effective in decreasing/increasing life expectancy
 + To provide insights to these meaningful questions
 
-**Project Report:**
+**Project Report:** https://github.com/Dnsibu/STAT4310_Final_Project/blob/main/Final%20Report/project_group3.pdf
 
 ### Datasets used in this project
 
